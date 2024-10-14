@@ -1,6 +1,9 @@
 Automation System Re-Design (Framing Machine & Tables)
+
 Client: OZ BUILD CONSTRUCTIONS
+
 Introduction:
+
 The current setup at OZ BUILD CONSTRUCTIONS' framing machine and panel tables station is fully automated and controlled by a centralized Beckhoff PLC system. This system is responsible for coordinating operations across multiple stations, including:
 
 Framing Station: Two nailing stations for automated framing processes.
