@@ -1,4 +1,4 @@
-# Project:		Automation System Re-Design (Framing Machine & Tables)
+<h1 align="center  Project:		Automation System Re-Design (Framing Machine & Tables)</h1>
 Client:		OZ BUILD CONSTRUCTIONS
 #INTRODUCTION:
 #The current setup is entirely automated and controlled by a centralized PLC. It comprises a Framing station with two nailing stations, and six panel tables. The system comprises Beckhoff PLC and I/O modules, along with a centralized HMI control system. 
