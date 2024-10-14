@@ -36,6 +36,6 @@ Motor Controlling: Multiple VFD Controllers, Direct Control, and Servo Drive.
 
 https://www.veed.io/view/d862d4a3-4240-419d-a482-0c11b0fee79c?panel=
 
-![My Image](/my-image.png)
+![My Image](PLC1.jpg)
 
 
