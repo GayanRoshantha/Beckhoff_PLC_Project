@@ -32,3 +32,8 @@ Technologies: Pneumatic for Nail gun station operations, Hydraulic for table lif
 
 Motor Controlling: Multiple VFD Controllers, Direct Control, and Servo Drive.
 
+# Project Photos/Videos
+
+https://www.veed.io/view/d862d4a3-4240-419d-a482-0c11b0fee79c?panel=
+
+
