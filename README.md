@@ -20,7 +20,7 @@ HMI Software Re-Development: Develop a new HMI software interface that is modern
 
 # System Architecture:
 
-Main PLCs: CX8190, CX9020
+Main PLCs: Beckhoff CX8190, CX9020
 
 Communication Protocol: EtherCAT protocol between I/O modules, PLC, and HMI.
 
@@ -30,7 +30,7 @@ HMI: Centralized HMI controlling and monitoring the entire system.
 
 Technologies: Pneumatic for Nail gun station operations, Hydraulic for table lifting.
 
-Motor Controlling: Multiple VFD Controllers, Direct Control, and Servo Drive.
+Motor Controlling: Multiple Danfoss VFD Controllers, Direct Control, and Beckhoff Servo Drive.
 
 # Project Photos/Videos
 
