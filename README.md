@@ -34,6 +34,7 @@ Motor Controlling: Multiple Danfoss VFD Controllers, Direct Control, and Beckhof
 
 # Project Photos/Videos
 
+Click the link below to see the video of full machine operations
 https://vimeo.com/1019639791?share=copy#t=0
 
 ![My Image](PLC1.jpg) ![My Image](MC1.jpg)
